@@ -1,0 +1,5 @@
+.Inc_Dec{
+    display: flex;
+    height: 2em;
+    justify-content: space-around;
+}
